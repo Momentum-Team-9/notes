@@ -8,3 +8,4 @@
 - [Git](git.md)
 - [HTML](html.md)
 - [CSS: The Basics](css-layout.md)
+- [CSS: Layout](css-layout.md)
