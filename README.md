@@ -10,4 +10,4 @@
 - [CSS: The Basics](css-layout.md)
 - [CSS: Layout](css-layout.md)
 - [Intro to JS](intro-js.md)
--[JS Arrays](js-arrays.md)
+- [JS Arrays](js-arrays.md)
