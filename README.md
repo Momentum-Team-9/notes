@@ -12,3 +12,4 @@
 - [Intro to JS](intro-js.md)
 - [JS Arrays](js-arrays.md)
 - [JS and The DOM](js-dom.md)
+- [Web Forms](js-forms.md)
