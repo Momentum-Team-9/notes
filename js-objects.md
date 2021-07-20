@@ -135,4 +135,3 @@ findPeopleByCity('Durham', people)
 findPeopleByCity('Raleigh', people)
 // [{name: "Parker", city: "Raleigh"}]
 ```
-{"mode":"full","isActive":false}
