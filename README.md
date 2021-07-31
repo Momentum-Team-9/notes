@@ -16,3 +16,7 @@
 - [Debugging in JS](js-debugging.md)
 - [JS Objects](js-objects.md)
 - [AJAX](js-ajax.md)
+
+### Phase 2: Back End with Python
+
+- [Intro to Python](intro-python.md)
