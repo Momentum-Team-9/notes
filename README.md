@@ -22,3 +22,4 @@
 - [Intro to Python](intro-python.md)
 - [Python Lists, Dicts, and Tuples](py-lists-dicts-tuples.md)
 - [A Tour of Django](django-tour.md)
+- [Structure of Django Diagram](django-diagram.md)
